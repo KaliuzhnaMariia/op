@@ -1,0 +1,13 @@
+﻿  lab1.cpp
+C:\Users\User\github-classroom\oplab1-KaliuzhnaMariia\lab1\lab1\lab1.cpp(39,39): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\User\github-classroom\oplab1-KaliuzhnaMariia\lab1\lab1\lab1.cpp(66,25): warning C4101: e: неиспользованная локальная переменная
+C:\Users\User\github-classroom\oplab1-KaliuzhnaMariia\lab1\lab1\lab1.cpp(72,39): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\User\github-classroom\oplab1-KaliuzhnaMariia\lab1\lab1\lab1.cpp(102,25): warning C4101: e: неиспользованная локальная переменная
+C:\Users\User\github-classroom\oplab1-KaliuzhnaMariia\lab1\lab1\lab1.cpp(108,49): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\User\github-classroom\oplab1-KaliuzhnaMariia\lab1\lab1\lab1.cpp(129,48): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\User\github-classroom\oplab1-KaliuzhnaMariia\lab1\lab1\lab1.cpp(166,71): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\User\github-classroom\oplab1-KaliuzhnaMariia\lab1\lab1\lab1.cpp(171,23): warning C4101: e: неиспользованная локальная переменная
+C:\Users\User\github-classroom\oplab1-KaliuzhnaMariia\lab1\lab1\lab1.cpp(174,25): warning C4101: e: неиспользованная локальная переменная
+C:\Users\User\github-classroom\oplab1-KaliuzhnaMariia\lab1\lab1\lab1.cpp(36): warning C4715: determineFile: значение возвращается не при всех путях выполнения
+C:\Users\User\github-classroom\oplab1-KaliuzhnaMariia\lab1\lab1\lab1.cpp(126): warning C4715: Gold1: значение возвращается не при всех путях выполнения
+  lab1.vcxproj -> C:\Users\User\github-classroom\oplab1-KaliuzhnaMariia\lab1\x64\Debug\lab1.exe
